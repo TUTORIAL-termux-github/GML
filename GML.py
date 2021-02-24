@@ -31,5 +31,9 @@ if pil == "1":
    os.system("cd pysqlpage")
 elif pil == "2":
    os.system("clear")
-   git clone 
+   git clone https://github.com/TUTORIAL-termux-github/TUTORIAL/
+   os.system("clear")
+   os.system("cd TUTORIAL")
+
+   
 
