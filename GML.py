@@ -25,4 +25,10 @@ print "============================="
 print "1.py-sql-page"
 print "2.RED BULL DDOS"
 pil =raw_input("pilih: ")
+if pil == "1":
+   os.system("clear")
+   git clone 
+elif pil == "2":
+   os.system("clear")
+   git clone 
 
