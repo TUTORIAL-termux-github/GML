@@ -27,7 +27,8 @@ print "2.RED BULL DDOS"
 pil =raw_input("pilih: ")
 if pil == "1":
    os.system("clear")
-   git clone 
+   git clone https://github.com/TUTORIAL-termux-github/pysqlpage
+   os.system("cd pysqlpage")
 elif pil == "2":
    os.system("clear")
    git clone 
